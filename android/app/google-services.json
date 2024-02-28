@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "291300004164",
+    "project_id": "notesapp-ba0e0",
+    "storage_bucket": "notesapp-ba0e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291300004164:android:cb7cce3e9a188640164711",
+        "android_client_info": {
+          "package_name": "com.example.google_keep_note_clone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALXym9Y4fK-ss9gZiGrezPxmiwFP848e0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
